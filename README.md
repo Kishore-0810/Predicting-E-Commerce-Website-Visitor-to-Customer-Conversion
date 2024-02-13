@@ -2,7 +2,9 @@
 In the rapidly evolving E-commerce industry, understanding customer behavior is crucial for business growth. The goal of this project is to analyze an E-commerce dataset and develop a predictive model that can accurately classify visitors based on their likelihood to convert into customers.
 
 * The dataset contains a variety of features, including a target variable has_converted which indicates whether a visitor has converted into a customer.  
-* The challenge is to use this data to train a classification model that can predict the has_converted status for future visitors. The outcome of this project will provide valuable insights that can help in strategizing effective customer conversion techniques. 
+* The challenge is to use this data to train a classification model that can predict the has_converted status for future visitors. The outcome of this project will provide valuable insights that can help in strategizing effective customer conversion techniques.
+
+* DataSet: https://drive.google.com/drive/folders/1ATULlRKrSensZHs2SxaT7y0b68Rc1vQA
 
 
 ## Data Preprocessing: 
