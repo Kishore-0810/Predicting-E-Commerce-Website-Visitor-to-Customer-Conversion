@@ -4,7 +4,7 @@ In the rapidly evolving E-commerce industry, understanding customer behavior is 
 * The dataset contains a variety of features, including a target variable has_converted which indicates whether a visitor has converted into a customer.  
 * The challenge is to use this data to train a classification model that can predict the has_converted status for future visitors. The outcome of this project will provide valuable insights that can help in strategizing effective customer conversion techniques.
 
-* DataSet: https://drive.google.com/drive/folders/1ATULlRKrSensZHs2SxaT7y0b68Rc1vQA
+* DataSet: https://docs.google.com/spreadsheets/d/1IWrqHlBgNiqQpSnHHlEmtKGep5JNZSLROxVT4Yj2i7w/edit?usp=sharing
 
 
 ## Data Preprocessing: 
